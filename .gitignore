@@ -1,0 +1,22 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 模拟输出大文件
+*.npy
+*.npz
+*.hdf5
+*.h5
+*.mat
+
+# 日志
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 系统文件
+.DS_Store
+Thumbs.db
